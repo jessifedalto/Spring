@@ -1,13 +1,13 @@
-package com.bosch.examples.impl;
+// package com.bosch.examples.impl;
 
-import com.bosch.example.services.CPFValidator;
+// import com.bosch.example.services.CPFValidator;
 
-public class DefaultCPFValidator implements CPDValidator{
+// public class DefaultCPFValidator implements CPDValidator{
 
-    public Boolean validate(Spring cpf){
+//     public Boolean validate(Spring cpf){
 
-        System.out.println("Validei um cepa tlg");
-        return true;
-    }
+//         System.out.println("Validei um cepa tlg");
+//         return true;
+//     }
 
-}
+// }
